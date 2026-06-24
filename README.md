@@ -1,5 +1,5 @@
 Salone Wellbodi Clinic System (SWCS)
-Principles of Software Engineering — Final Group Project
+Principles of Software Engineering Final Group Project
 
 About This Repository
 This repository contains all documentation, diagrams, and design files for our Principles of Software Engineering final group project. The project involved designing the Salone Wellbodi Clinic System (SWCS), a digital queue and clinic management platform built to address the challenges of long clinic queues, lost patient records, and delayed emergency responses in Sierra Leone's public health facilities.
@@ -13,7 +13,18 @@ File/FolderDescriptionProject ReportFull written report covering all sectionsSys
 Built With
 
 Figma — UI/UX Prototyping
+
+
+
+
+
+
+
 GitHub — Version Control and Collaboration
+
+
+
+
 Microsoft Word — Documentation
 
 
